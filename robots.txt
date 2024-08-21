@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tf-mac.github.io/sitemap.xml
+Sitemap: https://tommymcf.com/sitemap.xml
