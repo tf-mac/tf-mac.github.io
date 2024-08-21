@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tf-mac.github.io/al-folio/sitemap.xml
+Sitemap: https://tommymcf.com# the base hostname & protocol for your site/sitemap.xml
